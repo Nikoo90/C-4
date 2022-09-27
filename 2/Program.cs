@@ -13,4 +13,4 @@
 }
 
 
-sumNum(452); //11
+Console.WriteLine(sumNum(9012)); //12
