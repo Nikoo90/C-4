@@ -1,5 +1,4 @@
-﻿using System;
-void printArr(int[] arr)
+﻿void printArr(int[] arr)
 {
     for (int i = 0; i < arr.Length; i++)
     {
