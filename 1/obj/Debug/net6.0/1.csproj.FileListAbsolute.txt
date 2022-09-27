@@ -1,0 +1,15 @@
+/Users/nik/Desktop/FrontEnd/C#/Practika4/1/bin/Debug/net6.0/1
+/Users/nik/Desktop/FrontEnd/C#/Practika4/1/bin/Debug/net6.0/1.deps.json
+/Users/nik/Desktop/FrontEnd/C#/Practika4/1/bin/Debug/net6.0/1.runtimeconfig.json
+/Users/nik/Desktop/FrontEnd/C#/Practika4/1/bin/Debug/net6.0/1.dll
+/Users/nik/Desktop/FrontEnd/C#/Practika4/1/bin/Debug/net6.0/1.pdb
+/Users/nik/Desktop/FrontEnd/C#/Practika4/1/obj/Debug/net6.0/1.csproj.AssemblyReference.cache
+/Users/nik/Desktop/FrontEnd/C#/Practika4/1/obj/Debug/net6.0/1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nik/Desktop/FrontEnd/C#/Practika4/1/obj/Debug/net6.0/1.AssemblyInfoInputs.cache
+/Users/nik/Desktop/FrontEnd/C#/Practika4/1/obj/Debug/net6.0/1.AssemblyInfo.cs
+/Users/nik/Desktop/FrontEnd/C#/Practika4/1/obj/Debug/net6.0/1.csproj.CoreCompileInputs.cache
+/Users/nik/Desktop/FrontEnd/C#/Practika4/1/obj/Debug/net6.0/1.dll
+/Users/nik/Desktop/FrontEnd/C#/Practika4/1/obj/Debug/net6.0/refint/1.dll
+/Users/nik/Desktop/FrontEnd/C#/Practika4/1/obj/Debug/net6.0/1.pdb
+/Users/nik/Desktop/FrontEnd/C#/Practika4/1/obj/Debug/net6.0/1.genruntimeconfig.cache
+/Users/nik/Desktop/FrontEnd/C#/Practika4/1/obj/Debug/net6.0/ref/1.dll
